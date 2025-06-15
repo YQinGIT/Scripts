@@ -4,7 +4,7 @@ NODES=(
 )
 
 CHECKPOINT_MODELS=(
-    "https://civitai.com/api/download/models/1838857?type=Model&format=SafeTensor&size=pruned&fp=fp16"
+    "https://civitai.com/models/443821/cyberrealistic-pony"
 )
 PROVISIONING_SCRIPT
 UNET_MODELS=(
@@ -15,7 +15,6 @@ LORA_MODELS=(
 )
 
 VAE_MODELS=(
-    "https://huggingface.co/madebyollin/sdxl-vae-fp16-fix/resolve/main/vae.safetensors"
 )
 
 ESRGAN_MODELS=(
